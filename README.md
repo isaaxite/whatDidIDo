@@ -42,6 +42,8 @@
 
   http://www.baide.cc/
 
+  <img src="./asset/image/baideof.png" alt="百得火机">
+
 
 
 - 若干cms与已失效微信活动web
@@ -53,5 +55,9 @@
 
   官网入口：http://www.slarts.com/
 
+  <img src="./asset/image/slarts_of.jpg" alt="思联画饰">
+
   商城入口：http://www.slarts.com/Purchase/Product.html
+
+  <img src="./asset/image/slarts_buy.jpeg" alt="思联商城">
 
