@@ -24,7 +24,7 @@
 - 聊天H5
   接入聊天机器人，配合ui，ajax实时请求响应消息。输出“彩蛋”，可以看到更多“彩蛋”动画！“彩蛋”文字可以叠加，比如“菜单彩蛋彩蛋”，便会出现：
   
-  <img src="./asset/image/sangji.gif" alt="丧鸡聊天H5" width="375">
+  <img src="./asset/image/sangji.gif" alt="丧鸡聊天H5" width="250">
   
 
   <!-- <img src="./asset/image/2017_04.png" alt="丧鸡聊天H5" width="180"> -->
@@ -33,7 +33,8 @@
 
 - 小游戏：捏泡泡
 
-  <img src="./asset/image/2017_05.png" alt="小游戏：捏泡泡" width="180">
+  <!-- <img src="./asset/image/2017_05.png" alt="小游戏：捏泡泡" width="180"> -->
+  <img src="./asset/image/bubble.gif" alt="小游戏：捏泡泡" width="250">
 
 
 
