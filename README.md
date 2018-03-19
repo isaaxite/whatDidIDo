@@ -17,7 +17,7 @@
 
 - 观音火机推广H5
 
-  <img src="./asset/image/2017_03.png" alt="观音火机推广H5" width="180"><img src="./asset/image/2017_03.png" alt="观音火机推广H5" width="180">
+  <img src="./asset/image/2017_03.png" alt="观音火机推广H5" width="180">
 
 
 
@@ -26,7 +26,8 @@
   
   <img src="./asset/image/sangji.gif" alt="丧鸡聊天H5" width="375">
   
-  <img src="./asset/image/2017_04.png" alt="丧鸡聊天H5" width="180">
+
+  <!-- <img src="./asset/image/2017_04.png" alt="丧鸡聊天H5" width="180"> -->
 
 
 
