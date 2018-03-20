@@ -3,9 +3,7 @@
 
   小程序搜索 “百得掌柜商城”，即可！
 
-  <img src="./asset/image/bdtreasurer_lite01.jpeg" alt="百得掌柜商城主页" width="254">
-  <img src="./asset/image/bdtreasurer_lite02.jpeg" alt="百得掌柜商城详情" width="254">
-  <img src="./asset/image/bdtreasurer_lite03.jpeg" alt="百得掌柜商城个人中心" width="254">
+  <img src="./asset/image/bdtreasurer_lite01.jpeg" alt="百得掌柜商城主页" width="264"><img src="./asset/image/bdtreasurer_lite02.jpeg" alt="百得掌柜商城详情" width="264"><img src="./asset/image/bdtreasurer_lite03.jpeg" alt="百得掌柜商城个人中心" width="264">
 
 
 
